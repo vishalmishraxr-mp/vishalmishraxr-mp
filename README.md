@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Vishal 
 
-<!--
-**vishalmishraxr-mp/vishalmishraxr-mp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CSE student interested in Software Development, DSA and Web Development.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- C
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- Full Stack Web Development
+
+## Profiles
+
+- LeetCode
+- Codeforces
+- CodeChef
+
+## Projects
+
+- Weather Application
+- MERN Stack Projects
+
+Thanks for visiting my profile!
