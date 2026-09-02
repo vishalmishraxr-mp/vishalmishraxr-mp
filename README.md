@@ -1,6 +1,13 @@
 # Hi, I'm Vishal 
 
-I'm a CSE student interested in Software Development, DSA and Web Development.
+I'm a CSE student interested in Software Development, Data Structures & Algorithms, and Full Stack Web Development.
+
+## About Me
+
+- CSE Student at IIIT Bhagalpur
+- Practicing Data Structures & Algorithms
+- Learning Full Stack Web Development
+- Building projects to improve my development skills
 
 ## Skills
 
@@ -18,15 +25,22 @@ I'm a CSE student interested in Software Development, DSA and Web Development.
 - Data Structures & Algorithms
 - Full Stack Web Development
 
-## Profiles
+## Projects
+
+- Weather Application
+- MERN Stack Projects
+- DSA Practice Repository
+
+## Coding Profiles
 
 - LeetCode
 - Codeforces
 - CodeChef
 
-## Projects
+## Goals
 
-- Weather Application
-- MERN Stack Projects
+- Improve problem-solving skills
+- Reach 1200+ rating on Codeforces
+- Build real-world Full Stack projects
 
 Thanks for visiting my profile!
