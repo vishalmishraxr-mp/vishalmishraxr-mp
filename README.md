@@ -33,14 +33,15 @@ I'm a CSE student interested in Software Development, Data Structures & Algorith
 
 ## Coding Profiles
 
-- LeetCode
-- Codeforces
-- CodeChef
+- [LeetCode](https://leetcode.com/u/vishalxr/)
+- [Codeforces](https://codeforces.com/profile/vishalxr)
+- [CodeChef](https://www.codechef.com/users/vishalxr)
 
 ## Goals
 
 - Improve problem-solving skills
 - Reach 1200+ rating on Codeforces
+- 2 * on codechef
 - Build real-world Full Stack projects
 
 Thanks for visiting my profile!
