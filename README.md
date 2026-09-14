@@ -1,47 +1,112 @@
-# Hi, I'm Vishal 
+# Hi, I'm Vishal
 
-I'm a CSE student interested in Software Development, Data Structures & Algorithms, and Full Stack Web Development.
+I'm a CSE student at IIIT Bhagalpur interested in software development,
+data structures & algorithms, and full-stack web development.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,react,tailwind,nodejs,express,mongodb,git,github,vite,redux" />
+</p>
+
+---
 
 ## About Me
 
 - CSE Student at IIIT Bhagalpur
-- Practicing Data Structures & Algorithms
-- Learning Full Stack Web Development
-- Building projects to improve my development skills
+- Practicing Data Structures & Algorithms in C++
+- Building full-stack applications with the MERN stack
+- Learning by building real-world projects
+- Interested in software development and problem solving
 
-## Skills
+---
 
-- C++
-- C
-- JavaScript
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Git & GitHub
+## Currently Working On
 
-## Currently Learning
+- Improving my DSA and competitive programming skills
+- Building full-stack applications
+- Learning backend development and system design
+- Exploring better ways to build scalable web applications
 
-- Data Structures & Algorithms
-- Full Stack Web Development
+---
 
-## Projects
+## Featured Project
 
-- Weather Application
-- MERN Stack Projects
-- DSA Practice Repository
+<table>
+<tr>
+<td width="100%">
+
+### StudyLoop — Full-Stack Learning Platform
+
+A full-stack online learning platform built with the MERN stack, designed
+to help students discover courses, learn practical skills, and track their
+learning journey.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,nodejs,express,mongodb,vite" />
+</p>
+
+#### Highlights
+
+- Course discovery and category-based browsing
+- OTP-based authentication
+- Course enrollment and progress tracking
+- Ratings and reviews
+- Razorpay payment integration
+- Cloudinary media management
+- REST API architecture
+- MongoDB with Mongoose
+
+<p>
+  <a href="https://study-loop-rosy.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20StudyLoop-111827?style=for-the-badge" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Other Projects
+
+### ByteVerse
+
+A blogging application I'm building to explore full-stack development,
+backend architecture, and real-world application development.
+
+### DSA Practice
+
+A collection of my solutions and practice problems while improving
+problem-solving and competitive programming skills.
+
+---
 
 ## Coding Profiles
 
-- [LeetCode](https://leetcode.com/u/vishalxr/)
-- [Codeforces](https://codeforces.com/profile/vishalxr)
-- [CodeChef](https://www.codechef.com/users/vishalxr)
+<p align="center">
+  <a href="https://leetcode.com/u/vishalxr/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/vishalxr">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/vishalxr">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## Goals
 
-- Improve problem-solving skills
+- Become a stronger problem solver
 - Reach 1200+ rating on Codeforces
-- 2 * on codechef
-- Build real-world Full Stack projects
+- Reach 2★ on CodeChef
+- Build more production-oriented full-stack projects
+- Keep improving as a software developer
 
-Thanks for visiting my profile!
+---
+
+<p align="center">
+  Thanks for visiting my profile.
+</p>
