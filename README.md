@@ -63,13 +63,6 @@ learning journey.
 
 ---
 
-## Other Projects
-
-### ByteVerse
-
-A blogging application I'm building to explore full-stack development,
-backend architecture, and real-world application development.
-
 ### DSA Practice
 
 A collection of my solutions and practice problems while improving
