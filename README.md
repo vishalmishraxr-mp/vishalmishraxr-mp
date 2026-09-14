@@ -3,10 +3,6 @@
 I'm a CSE student at IIIT Bhagalpur interested in software development,
 data structures & algorithms, and full-stack web development.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,react,tailwind,nodejs,express,mongodb,git,github,vite,redux" />
-</p>
-
 ---
 
 ## About Me
@@ -104,6 +100,17 @@ problem-solving and competitive programming skills.
 - Reach 2★ on CodeChef
 - Build more production-oriented full-stack projects
 - Keep improving as a software developer
+
+---
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,react,tailwind,nodejs,express,mongodb,git,github,vite,redux" />
+</p>
+
+<p align="center">
+  C++ • C • JavaScript • React • Tailwind CSS • Node.js • Express.js • MongoDB • Git • GitHub • Vite • Redux Toolkit
+</p>
 
 ---
 
